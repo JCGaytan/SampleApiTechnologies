@@ -59,7 +59,3 @@ Contributions to this repository are welcome! If you find any issues or have imp
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this README to match your repository and provide additional details as needed. It's important to ensure that your README provides clear instructions for setting up, using, and contributing to your REST service project.
